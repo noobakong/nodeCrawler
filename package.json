@@ -1,0 +1,17 @@
+{
+  "name": "nodeCrawler",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "a demo of node-crawler",
+  "dependencies": {
+    "node-uuid": "^1.4.8",
+    "puppeteer": "^1.9.0",
+    "puppeteer-core": "^1.9.0"
+  }
+}
